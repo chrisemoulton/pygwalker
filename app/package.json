@@ -30,7 +30,7 @@
     "mobx": "^6.9.0",
     "mobx-react-lite": "^3.4.3",
     "pako": "^2.1.0",
-    "postcss": "^8.3.7",
+    "postcss": "^8.4.31",
     "react": "^17.x",
     "react-dom": "^17.x",
     "react-syntax-highlighter": "^15.5.0",
